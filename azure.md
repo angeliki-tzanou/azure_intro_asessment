@@ -21,5 +21,4 @@
 - **SQL virtual machines:** *allows you to use full versions of the SQL server in the cloud without having to directly manage any on-premises hardware*
 
 # c. Python interaction
-- jgfjfgnjn
-- dhbfjgg
+- 
