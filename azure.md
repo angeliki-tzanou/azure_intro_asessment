@@ -11,9 +11,8 @@
 - **computer vision:** *a unified service that offers innovative computer vision capabilities*
 - **virtual machines:** *one of several types of on-demand, scalable computing resources for Azure, used for when you need more control over the computing environment*
 - **saving plans:** *a flexible pricing model*
-- **disk accesses:** *
-- cloud services
-- saving plans ...
+- **disk accesses:** *high performance and durable block storage for any purpose or any business purposes*
+- **cloud services:** *an example of PaaS (platform as a service) designed to support apps that are scalable, reliable, and inexpensive to operate.*
 
 ## Database Services
 - SQL databases
