@@ -15,7 +15,7 @@
 - **cloud services:** *an example of PaaS (platform as a service) designed to support apps that are scalable, reliable, and inexpensive to operate.*
 
 ## Database Services
-- SQL databases
+- **SQL databases:** *a family of managed, secure, and intelligent products that use the SQL server database engine in the Azure cloud*
 - Managed databases
 - Data share invitations
 - SQL virtual machines
