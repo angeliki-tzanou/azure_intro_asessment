@@ -19,3 +19,7 @@
 - **Managed databases:** *automate tasks such as configuring and managing high availability, disaster recovery, backups, and data replications*
 - **Data share invitations:** *allows organizations to securely share data with multiple people and partners*
 - **SQL virtual machines:** *allows you to use full versions of the SQL server in the cloud without having to directly manage any on-premises hardware*
+
+# c. Python interaction
+- jgfjfgnjn
+- dhbfjgg
