@@ -21,4 +21,4 @@
 - **SQL virtual machines:** *allows you to use full versions of the SQL server in the cloud without having to directly manage any on-premises hardware*
 
 # c. Python interaction
-- 
+- Many of these services can be utilized with Python in order to become more productive and efficient especially when combatting a heavy workload. For instance, having storage accounts can ease access to data from any physical device with the same login utilizing its ability of on-demand access. More specifically when considering the direct Python usage Azure SDK can actually provide Python packages that allow to access the Azure services.
